@@ -6,3 +6,6 @@ https://rapidapi.com/
 To use properly you will need to create an account with all 3 and add the api keys to the Constants.py file
 Additionally, for rapidapi you will need to subscribe to the Blur api here:
 https://rapidapi.com/openseatools/api/blur
+
+
+The main file to use is GetUnclaimedTokens.py, the rest are support functions to get the data from various sources.
