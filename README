@@ -1,0 +1,8 @@
+This Tool Uses APIs from
+https://www.alchemy.com/
+https://moralis.io/
+https://rapidapi.com/
+
+To use properly you will need to create an account with all 3 and add the api keys to the Constants.py file
+Additionally, for rapidapi you will need to subscribe to the Blur api here:
+https://rapidapi.com/openseatools/api/blur
